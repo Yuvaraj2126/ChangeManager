@@ -35,21 +35,21 @@
          <Changes>
             <Tab>Annex</Tab>
             <Section>WalMart</Section>
-            <Key>RoutePoint1</Key>
+            <Key>RoutePoint</Key>
             <Value>9000</Value>
             <ActionType>Add</ActionType>
          </Changes>
          <Changes>
             <Tab>Annex</Tab>
             <Section>Port</Section>
-            <Key>DNIS1</Key>
+            <Key>DNIS</Key>
             <Value>210</Value>
             <ActionType>Add</ActionType>
          </Changes>
          <Changes>
             <Tab>Annex</Tab>
             <Section>Testing</Section>
-            <Key>Play1</Key>
+            <Key>Play</Key>
             <Value>http://Appserver29.aws.com/playivr.vxml</Value>
             <ActionType>Add</ActionType>
          </Changes>
@@ -73,7 +73,7 @@
          <Changes>
             <Tab>Annex</Tab>
             <Section>Testing</Section>
-            <Key>Play1</Key>
+            <Key>Play</Key>
             <Value>no</Value>
             <ActionType>Add</ActionType>
          </Changes>
