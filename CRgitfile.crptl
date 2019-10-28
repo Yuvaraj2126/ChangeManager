@@ -1,5 +1,6 @@
 <XML>
-   <Version>2.20</Version>
+   <Version>2.21</Version>
+   <TargetEnvironment>dev</TargetEnvironment>
    <CR_Detail>
       <dev>
          <Host>192.168.200.210</Host>
@@ -18,5 +19,5 @@
       </prod>
    </CR_Detail>
    <EmailNotification>mail.com</EmailNotification>
-   <ApplyNotes>Sprint 5 Genesys Changes Applied</ApplyNotes>
+   <ApplyNotes>Sprint 5 Genesys Changes Rollbacked</ApplyNotes>
 </XML>
