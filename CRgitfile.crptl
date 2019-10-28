@@ -1,5 +1,5 @@
 <XML>
-   <Version>2.18</Version>
+   <Version>2.19</Version>
    <CR_Detail>
       <dev>
          <Host>192.168.200.210</Host>
@@ -35,21 +35,21 @@
          <Changes>
             <Tab>Annex</Tab>
             <Section>WalMart</Section>
-            <Key>RoutePoint</Key>
+            <Key>RoutePoint1</Key>
             <Value>9000</Value>
             <ActionType>Add</ActionType>
          </Changes>
          <Changes>
             <Tab>Annex</Tab>
             <Section>Port</Section>
-            <Key>DNIS</Key>
+            <Key>DNIS1</Key>
             <Value>210</Value>
             <ActionType>Add</ActionType>
          </Changes>
          <Changes>
             <Tab>Annex</Tab>
             <Section>Testing</Section>
-            <Key>Play</Key>
+            <Key>Play1</Key>
             <Value>http://Appserver29.aws.com/playivr.vxml</Value>
             <ActionType>Add</ActionType>
          </Changes>
@@ -73,7 +73,7 @@
          <Changes>
             <Tab>Annex</Tab>
             <Section>Testing</Section>
-            <Key>Play</Key>
+            <Key>Play1</Key>
             <Value>no</Value>
             <ActionType>Add</ActionType>
          </Changes>
