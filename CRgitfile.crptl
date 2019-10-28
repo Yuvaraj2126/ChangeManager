@@ -50,7 +50,7 @@
             <Tab>Annex</Tab>
             <Section>Testing</Section>
             <Key>Play</Key>
-            <Value>http://Appserver29.aws.com/playivr.vxml</Value>
+            <Value>Yes</Value>
             <ActionType>Add</ActionType>
          </Changes>
       </Change_Details>
