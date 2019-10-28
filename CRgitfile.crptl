@@ -1,5 +1,5 @@
 <XML>
-   <Version>2.21</Version>
+   <Version>2.22</Version>
    <TargetEnvironment>dev</TargetEnvironment>
    <CR_Detail>
       <dev>
@@ -18,6 +18,6 @@
          <ClientName>default</ClientName>
       </prod>
    </CR_Detail>
-   <EmailNotification>mail.com</EmailNotification>
+   <EmailNotification>yuvaraj.boopathy@pointelsolutions.com</EmailNotification>
    <ApplyNotes>Sprint 5 Genesys Changes Rollbacked</ApplyNotes>
 </XML>
