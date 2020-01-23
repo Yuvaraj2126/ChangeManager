@@ -1,5 +1,5 @@
 <XML>
-   <Version>2.24</Version>
+   <Version>2.25</Version>
    <TargetEnvironment>dev</TargetEnvironment>
    <CR_Detail>
       <dev>
@@ -44,14 +44,14 @@
             <Tab>Annex</Tab>
             <Section>Port</Section>
             <Key>DNIS</Key>
-            <Value>210</Value>
+            <Value>2110</Value>
             <ActionType>Add</ActionType>
          </Changes>
          <Changes>
             <Tab>Annex</Tab>
             <Section>Testing</Section>
             <Key>Play</Key>
-            <Value>Yes</Value>
+            <Value>no</Value>
             <ActionType>Add</ActionType>
          </Changes>
       </Change_Details>
@@ -75,7 +75,7 @@
             <Tab>Annex</Tab>
             <Section>Testing</Section>
             <Key>Play</Key>
-            <Value>no</Value>
+            <Value>yes</Value>
             <ActionType>Add</ActionType>
          </Changes>
       </Change_Details>
